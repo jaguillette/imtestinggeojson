@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+
+    <!-- This is the title of the kml in GE's my places pane -->
+    <!-- CHANGE TO SHOW APPROPRIATE ATLAS -->
+    <name>1884 East Boston - Bromley</name>
+
+    <!-- CHANGE THE DATES to correct year: shows up on time slider -->
+    <TimeSpan id="ID">
+      <begin>1884-01</begin>
+      <end>1885-01</end>
+    </TimeSpan>
+
+    <!-- can change the name or leave it the same - depending on how picky/lazy you are -->
+      <Style id="bluepoly">
+
+	  <!-- Line width and color - polygon borders -->
+		  <LineStyle>
+			 <color>ff4a3320</color>
+       <width>2</width>
+		  </LineStyle>
+
+    <!-- Polygon color and transparency -->
+		  <PolyStyle>		
+    	 <color>99dc9a5f</color>		
+		  </PolyStyle>
+
+	   </Style>
+
+
+
+
+
+
+
+
+
+
+
+<!-- this point begins the polygons for each plate -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- PLATE L -->
+
+
+
+
+
+<Placemark>
+    <styleUrl>#bluepoly</styleUrl>
+
+  <!-- CHANGE NAME TO APPROPRIATE PLATE NAME -->
+    <name>Plate L</name>
+
+    <description>
+
+      <!-- below is the balloon's data -->
+    <![CDATA[
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>Item Information:</strong></font>
+        <br />
+        <font color="#999999">publisher, date, call number, etc.</font>
+      </p>
+      <p>
+        <a href="{LINK_1_URL}" target="_blank"><strong><font color="#CC3333">Link to plate's image online</font></strong></a>
+      </p>
+      <p>
+        <a href="{LINK_2_URL}" target="_blank"><strong><font color="#CC3333">Link to image request form</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+    <MultiGeometry>
+               <Polygon>
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+
+
+                        <!-- CHANGE COORDINATES -->
+
+                        
+                        <coordinates> -71.03201242969129,42.36712747699863,0 -71.03360420580447,42.36523348960974,0 -71.03679859699481,42.36141075235646,0 -71.03189063060853,42.36077912378607,0 -71.02740764729415,42.3621610343742,0 -71.0257625841051,42.36397593979847,0 -71.02499468232708,42.36614790667437,0 -71.02806353278724,42.36761516053156,0 -71.03097573613444,42.36744350202087,0 -71.03133718690543,42.36683358137863,0 -71.03201242969129,42.36712747699863,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+     </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- PLATE M -->
+
+
+
+
+ <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate M</name>
+     <description>
+    <![CDATA[
+         
+
+      <table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>Item Information:</strong></font>
+        <br />
+        <font color="#999999">publisher, date, call number, etc.</font>
+      </p>
+      <p>
+        <a href="{LINK_1_URL}" target="_blank"><strong><font color="#CC3333">Link to plate's image online</font></strong></a>
+      </p>
+      <p>
+        <a href="{LINK_2_URL}" target="_blank"><strong><font color="#CC3333">Link to image request form</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+    </td>
+  </tr>
+      </table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.03201242969112,42.36712747699863,0 -71.03701058337853,42.36930161097622,0 -71.03554716326512,42.3705382540179,0 -71.0364624089344,42.37094132913254,0 -71.03778873080559,42.36964982506033,0 -71.03793392059357,42.36971228348507,0 -71.03824894580063,42.36934123695032,0 -71.03889283065361,42.36850410585719,0 -71.03996722296,42.36711287859824,0 -71.04273852249629,42.36384076423022,0 -71.03674815374849,42.361404261715,0 -71.03417613858399,42.36454909670191,0 -71.03299670068756,42.36593298477403,0 -71.03201242969112,42.36712747699863,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+ </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- PLATE N -->
+
+
+
+
+<Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate N</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>Item Information:</strong></font>
+        <br />
+        <font color="#999999">publisher, date, call number, etc.</font>
+      </p>
+      <p>
+        <a href="{LINK_1_URL}" target="_blank"><strong><font color="#CC3333">Link to plate's image online</font></strong></a>
+      </p>
+      <p>
+        <a href="{LINK_2_URL}" target="_blank"><strong><font color="#CC3333">Link to image request form</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.03712557664058,42.37029557905533,0 -71.03776953472226,42.37076331138459,0 -71.03878631894635,42.37141159196686,0 -71.03898862949288,42.37134313381745,0 -71.0390072099938,42.37198162888573,0 -71.0391559324808,42.37212017834343,0 -71.03984521865687,42.37242378457933,0 -71.04050716290085,42.37271547913965,0 -71.04117982366867,42.37300193960144,0 -71.04089501087405,42.37336118877015,0 -71.04445506453483,42.3749407431704,0 -71.04670469079161,42.37315514895583,0 -71.04726156985787,42.36963635117758,0 -71.04496159467981,42.36569844402543,0 -71.04273086961676,42.36383765184329,0 -71.04014019013188,42.3669086656282,0 -71.03793392059357,42.36971228348507,0 -71.03778873080559,42.36964982506024,0 -71.03712557664058,42.37029557905533,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- PLATE O -->
+
+
+
+<Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate O</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>Item Information:</strong></font>
+        <br />
+        <font color="#999999">publisher, date, call number, etc.</font>
+      </p>
+      <p>
+        <a href="{LINK_1_URL}" target="_blank"><strong><font color="#CC3333">Link to plate's image online</font></strong></a>
+      </p>
+      <p>
+        <a href="{LINK_2_URL}" target="_blank"><strong><font color="#CC3333">Link to image request form</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+          <tessellate>1</tessellate>
+          <outerBoundaryIs><LinearRing><coordinates> -71.03620120385178,42.37079126439583,0 -71.03258052201323,42.37408558969723,0 -71.0334141450343,42.3745060314978,0 -71.03442646679106,42.37515814552521,0 -71.035122501609,42.37560276618567,0 -71.03580862771328,42.37604053728828,0 -71.03666490166475,42.3772445568297,0 -71.03913166882475,42.37635120931805,0 -71.03915163976114,42.37711878573352,0 -71.03988256895693,42.37712022783563,0 -71.03994128405248,42.37777771371351,0 -71.04438110193128,42.37757235449616,0 -71.04446793263568,42.37493052979599,0 -71.04089501087405,42.37336118877015,0 -71.04117982366867,42.37300193960144,0 -71.0391559324808,42.37212017834343,0 -71.0390072099938,42.37198162888573,0 -71.03898862949288,42.37134313381745,0 -71.03878631894635,42.37141159196686,0 -71.03776953472226,42.37076331138459,0 -71.03712557664058,42.37029557905542,0 -71.0364624089344,42.37094132913254,0 -71.03620120385178,42.37079126439583,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- PLATE P -->
+
+
+
+
+
+<Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate P</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>Item Information:</strong></font>
+        <br />
+        <font color="#999999">publisher, date, call number, etc.</font>
+      </p>
+      <p>
+        <a href="{LINK_1_URL}" target="_blank"><strong><font color="#CC3333">Link to plate's image online</font></strong></a>
+      </p>
+      <p>
+        <a href="{LINK_2_URL}" target="_blank"><strong><font color="#CC3333">Link to image request form</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.03258052201323,42.37408558969723,0 -71.02574476316623,42.38020169442648,0 -71.02611993096583,42.38043649509996,0 -71.02767093768362,42.38336421035993,0 -71.02819651080826,42.38419563361104,0 -71.03400667368827,42.38457277076917,0 -71.04086507790309,42.38454596639553,0 -71.04366504306763,42.38278981779123,0 -71.04438154005409,42.37755902516665,0 -71.03994128405248,42.37777771371351,0 -71.03988256895693,42.37712022783563,0 -71.03915163976114,42.37711878573352,0 -71.03913166882475,42.37635120931805,0 -71.03666490166475,42.3772445568297,0 -71.03580862771328,42.37604053728828,0 -71.03417915597579,42.37500065617704,0 -71.0334141450343,42.3745060314978,0 -71.03258052201323,42.37408558969723,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- PLATE Q -->
+
+
+
+<Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate Q</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>Item Information:</strong></font>
+        <br />
+        <font color="#999999">publisher, date, call number, etc.</font>
+      </p>
+      <p>
+        <a href="{LINK_1_URL}" target="_blank"><strong><font color="#CC3333">Link to plate's image online</font></strong></a>
+      </p>
+      <p>
+        <a href="{LINK_2_URL}" target="_blank"><strong><font color="#CC3333">Link to image request form</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.02782819342775,42.38361298150469,0 -71.0278328016733,42.3836202714982,0 -71.02611993096583,42.38043649509996,0 -71.02574476316623,42.38020169442648,0 -71.02069117312445,42.3771606971513,0 -71.01746962708134,42.37884655019064,0 -71.01124232271151,42.3803292588857,0 -71.00847751297032,42.38453723086682,0 -71.01292460341071,42.39045617349265,0 -71.02048277898119,42.38820132020553,0 -71.02782819342775,42.38361298150469,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- PLATE R -->
+
+
+<Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate R</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>Item Information:</strong></font>
+        <br />
+        <font color="#999999">publisher, date, call number, etc.</font>
+      </p>
+      <p>
+        <a href="{LINK_1_URL}" target="_blank"><strong><font color="#CC3333">Link to plate's image online</font></strong></a>
+      </p>
+      <p>
+        <a href="{LINK_2_URL}" target="_blank"><strong><font color="#CC3333">Link to image request form</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.02069117312445,42.3771606971513,0 -71.02072001560541,42.37717805457704,0 -71.0242234072237,42.37928627299552,0 -71.02574476316623,42.38020169442648,0 -71.02782088908099,42.37840010319813,0 -71.03100660255892,42.37549395185498,0 -71.03417081508239,42.37263869709827,0 -71.03617526118059,42.37081487031353,0 -71.03554716326512,42.37053825401794,0 -71.03701058337853,42.36930161097622,0 -71.0347418564531,42.3683147888781,0 -71.03133718690549,42.36683358137862,0 -71.03097573613455,42.36744350202091,0 -71.02978128294737,42.36835630322919,0 -71.02431535830041,42.37311096438475,0 -71.01914859762606,42.37265445606288,0 -71.01450717933305,42.37542184934445,0 -71.02069117312445,42.3771606971513,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</Document>
+</kml>

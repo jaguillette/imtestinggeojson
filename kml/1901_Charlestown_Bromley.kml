@@ -1,0 +1,1652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+
+    <!-- This is the title of the kml in GE's my places pane -->
+    <!-- CHANGE TO SHOW APPROPRIATE ATLAS -->
+    <name>1901 Charlestown - Bromley</name>
+
+    <!-- CHANGE THE DATES to correct year: shows up on time slider -->
+    <TimeSpan id="ID">
+      <begin>1901-01</begin>
+      <end>1902-01</end>
+    </TimeSpan>
+
+    <!-- can change the name or leave it the same - depending on how picky/lazy you are -->
+      <Style id="bluepoly">
+
+	  <!-- Line width and color - polygon borders -->
+		  <LineStyle>
+			 <color>ff00aaff</color>
+       <width>2</width>
+		  </LineStyle>
+
+    <!-- Polygon color and transparency -->
+		  <PolyStyle>		
+    	 <color>7f00aaff</color>		
+		  </PolyStyle>
+
+	   </Style>
+
+
+
+
+
+
+
+
+
+
+
+<!-- this point begins the polygons for each plate -->
+    <Placemark>
+    <styleUrl>#bluepoly</styleUrl>
+
+  <!-- CHANGE NAME TO APPROPRIATE PLATE NAME -->
+    <name>Plate 1</name>
+
+    <description>
+
+      <!-- below is the balloon's data -->
+    <![CDATA[
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+    </br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+    <MultiGeometry>
+               <Polygon>
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+
+
+                        <!-- CHANGE COORDINATES -->
+
+                        
+                        <coordinates>  -71.063708,42.374574,0.000000 -71.066181,42.373647,0.000000 -71.066774,42.372978,0.000000 -71.065209,42.372219,0.000000 -71.063966,42.371405,0.000000 -71.063303,42.371150,0.000000 -71.062571,42.370967,0.000000 -71.061923,42.370919,0.000000 -71.061905,42.371453,0.000000 -71.062377,42.371727,0.000000 -71.061996,42.372135,0.000000 -71.061986,42.372964,0.000000 -71.062296,42.373386,0.000000 -71.063182,42.373978,0.000000 -71.063708,42.374574,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+     </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 2</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+    </br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.062296,42.373386,0.000000 -71.061986,42.372964,0.000000 -71.061991,42.372488,0.000000 -71.061996,42.372135,0.000000 -71.062377,42.371727,0.000000 -71.061916,42.371459,0.000000 -71.061923,42.370919,0.000000 -71.060137,42.371686,0.000000 -71.057220,42.372984,0.000000 -71.057620,42.373367,0.000000 -71.058037,42.374395,0.000000 -71.059069,42.374278,0.000000 -71.059337,42.374356,0.000000 -71.059535,42.374265,0.000000 -71.060303,42.373896,0.000000 -71.060952,42.372984,0.000000 -71.060992,42.373074,0.000000 -71.061667,42.373670,0.000000 -71.062296,42.373386,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+<Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 3</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+         <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+    </br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.059299,42.375850,0.000000 -71.058916,42.374295,0.000000 -71.058037,42.374395,0.000000 -71.057375,42.374545,0.000000 -71.056250,42.375320,0.000000 -71.054507,42.376892,0.000000 -71.055540,42.377464,0.000000 -71.056306,42.377050,0.000000 -71.056112,42.378123,0.000000 -71.056866,42.378202,0.000000 -71.057570,42.378424,0.000000 -71.057713,42.377294,0.000000 -71.057407,42.377189,0.000000 -71.057831,42.376639,0.000000 -71.058826,42.377113,0.000000 -71.059097,42.376495,0.000000 -71.058588,42.376385,0.000000 -71.058481,42.376229,0.000000 -71.058812,42.376199,0.000000 -71.058735,42.375924,0.000000 -71.059299,42.375850,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 4</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+         <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+     </br>
+
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.054507,42.376892,0.000000 -71.051098,42.380239,0.000000 -71.056517,42.381080,0.000000 -71.056866,42.378202,0.000000 -71.056112,42.378123,0.000000 -71.056309,42.377199,0.000000 -71.056306,42.377050,0.000000 -71.055540,42.377464,0.000000 -71.054507,42.376892,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 5</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+         <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+    </br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.056517,42.381080,0.000000 -71.058931,42.381471,0.000000 -71.061115,42.378475,0.000000 -71.057713,42.377294,0.000000 -71.057572,42.378403,0.000000 -71.056866,42.378202,0.000000 -71.056518,42.381066,0.000000 -71.056517,42.381080,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 6</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+         <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+    </br>
+
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates>  -71.061115,42.378475,0.000000 -71.061273,42.378531,0.000000 -71.062151,42.377443,0.000000 -71.062915,42.376319,0.000000 -71.061877,42.375962,0.000000 -71.060443,42.375425,0.000000 -71.060318,42.375252,0.000000 -71.059608,42.375091,0.000000 -71.059128,42.375160,0.000000 -71.059299,42.375850,0.000000 -71.058735,42.375924,0.000000 -71.058812,42.376199,0.000000 -71.058481,42.376229,0.000000 -71.058588,42.376385,0.000000 -71.059097,42.376495,0.000000 -71.058826,42.377113,0.000000 -71.057831,42.376639,0.000000 -71.057407,42.377189,0.000000 -71.057713,42.377294,0.000000 -71.059863,42.378043,0.000000 -71.061115,42.378475,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 7</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+    </br>
+
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.062915,42.376319,0.000000 -71.063425,42.376498,0.000000 -71.064448,42.375555,0.000000 -71.063708,42.374574,0.000000 -71.063182,42.373978,0.000000 -71.062296,42.373386,0.000000 -71.061667,42.373670,0.000000 -71.060992,42.373074,0.000000 -71.060952,42.372984,0.000000 -71.060303,42.373896,0.000000 -71.059337,42.374356,0.000000 -71.059069,42.374278,0.000000 -71.058912,42.374282,0.000000 -71.059128,42.375160,0.000000 -71.059608,42.375091,0.000000 -71.060318,42.375252,0.000000 -71.060402,42.375369,0.000000 -71.060443,42.375425,0.000000 -71.061877,42.375962,0.000000 -71.062915,42.376319,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 8</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+         <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates>  -71.064448,42.375555,0.000000 -71.065803,42.376539,0.000000 -71.067854,42.375393,0.000000 -71.068959,42.374028,0.000000 -71.069354,42.373801,0.000000 -71.066774,42.372978,0.000000 -71.066181,42.373647,0.000000 -71.063708,42.374574,0.000000 -71.064448,42.375555,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 9</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+         <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.061273,42.378531,0.000000 -71.062633,42.379000,0.000000 -71.063157,42.379198,0.000000 -71.063638,42.379442,0.000000 -71.064898,42.378066,0.000000 -71.065519,42.377803,0.000000 -71.065626,42.377880,0.000000 -71.066693,42.377213,0.000000 -71.065803,42.376539,0.000000 -71.064448,42.375555,0.000000 -71.063425,42.376498,0.000000 -71.062915,42.376319,0.000000 -71.062151,42.377443,0.000000 -71.061273,42.378531,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 10</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+       <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates>  -71.058917,42.381469,0.000000 -71.062082,42.382379,0.000000 -71.064059,42.379656,0.000000 -71.063638,42.379442,0.000000 -71.063157,42.379198,0.000000 -71.061115,42.378475,0.000000 -71.059938,42.380089,0.000000 -71.058931,42.381471,0.000000 -71.058917,42.381469,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 11</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.062077,42.382377,0.000000 -71.064783,42.383285,0.000000 -71.066509,42.380880,0.000000 -71.067214,42.380105,0.000000 -71.066344,42.379724,0.000000 -71.066655,42.379355,0.000000 -71.065256,42.378878,0.000000 -71.064481,42.378527,0.000000 -71.063638,42.379442,0.000000 -71.064059,42.379656,0.000000 -71.062854,42.381315,0.000000 -71.062070,42.382375,0.000000 -71.062077,42.382377,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 12</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates>  -71.067214,42.380105,0.000000 -71.068466,42.378788,0.000000 -71.068399,42.378724,0.000000 -71.070041,42.377780,0.000000 -71.069004,42.375961,0.000000 -71.067854,42.375393,0.000000 -71.065803,42.376539,0.000000 -71.066693,42.377213,0.000000 -71.065626,42.377880,0.000000 -71.065519,42.377803,0.000000 -71.064898,42.378066,0.000000 -71.064481,42.378527,0.000000 -71.065256,42.378878,0.000000 -71.066655,42.379355,0.000000 -71.066344,42.379724,0.000000 -71.067043,42.380028,0.000000 -71.067214,42.380105,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 13</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.066509,42.380880,0.000000 -71.069129,42.382181,0.000000 -71.070448,42.380782,0.000000 -71.071642,42.380393,0.000000 -71.070041,42.377780,0.000000 -71.068399,42.378724,0.000000 -71.068466,42.378788,0.000000 -71.067214,42.380105,0.000000 -71.066509,42.380880,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 14</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+         <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.066488,42.380869,0.000000 -71.064798,42.383264,0.000000 -71.067283,42.384917,0.000000 -71.069296,42.382262,0.000000 -71.069129,42.382181,0.000000 -71.066509,42.380880,0.000000 -71.066488,42.380869,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+<Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 15</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+       <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.069296,42.382262,0.000000 -71.067283,42.384917,0.000000 -71.069724,42.385544,0.000000 -71.072241,42.383704,0.000000 -71.069296,42.382262,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 16</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+         <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.072241,42.383704,0.000000 -71.073160,42.383167,0.000000 -71.073251,42.383097,0.000000 -71.071642,42.380393,0.000000 -71.070448,42.380782,0.000000 -71.069129,42.382181,0.000000 -71.069296,42.382262,0.000000 -71.072241,42.383704,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 17</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+         <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.073251,42.383097,0.000000 -71.072241,42.383704,0.000000 -71.069718,42.385543,0.000000 -71.069768,42.387399,0.000000 -71.072457,42.388673,0.000000 -71.073874,42.386685,0.000000 -71.075341,42.384551,0.000000 -71.074147,42.383993,0.000000 -71.073874,42.384131,0.000000 -71.073251,42.383097,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 18</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+       <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.072457,42.388673,0.000000 -71.074595,42.389834,0.000000 -71.077529,42.386070,0.000000 -71.076024,42.385578,0.000000 -71.075022,42.385048,0.000000 -71.073874,42.386685,0.000000 -71.072457,42.388673,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 19</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+         <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.074147,42.383993,0.000000 -71.075239,42.384504,0.000000 -71.075341,42.384551,0.000000 -71.075005,42.385040,0.000000 -71.076024,42.385578,0.000000 -71.077529,42.386070,0.000000 -71.079782,42.382926,0.000000 -71.079533,42.382526,0.000000 -71.079578,42.382294,0.000000 -71.078581,42.382466,0.000000 -71.074147,42.383993,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 20</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+         <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.076633,42.383125,0.000000 -71.078581,42.382466,0.000000 -71.079053,42.382361,0.000000 -71.079578,42.382294,0.000000 -71.079533,42.382526,0.000000 -71.079782,42.382926,0.000000 -71.080919,42.382392,0.000000 -71.080548,42.381122,0.000000 -71.075624,42.380392,0.000000 -71.074816,42.380694,0.000000 -71.076633,42.383125,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+ <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 21</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.075612,42.380396,0.000000 -71.075125,42.379293,0.000000 -71.071642,42.380393,0.000000 -71.073874,42.384131,0.000000 -71.074147,42.383993,0.000000 -71.076633,42.383125,0.000000 -71.074816,42.380695,0.000000 -71.075586,42.380406,0.000000 -71.075612,42.380396,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+ <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 22</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+         <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.071642,42.380393,0.000000 -71.075125,42.379293,0.000000 -71.073084,42.374979,0.000000 -71.069699,42.377212,0.000000 -71.071642,42.380393,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+ <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 23</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+         <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.059451,42.368753,0.000000 -71.060446,42.370202,0.000000 -71.061293,42.371190,0.000000 -71.061923,42.370919,0.000000 -71.062571,42.370967,0.000000 -71.063303,42.371150,0.000000 -71.063966,42.371405,0.000000 -71.065120,42.372161,0.000000 -71.066227,42.372713,0.000000 -71.066774,42.372978,0.000000 -71.069319,42.373789,0.000000 -71.068953,42.374037,0.000000 -71.067854,42.375393,0.000000 -71.069004,42.375961,0.000000 -71.069712,42.377203,0.000000 -71.073069,42.374989,0.000000 -71.072281,42.373232,0.000000 -71.071821,42.373376,0.000000 -71.071475,42.373285,0.000000 -71.071327,42.373020,0.000000 -71.070833,42.372581,0.000000 -71.070188,42.372370,0.000000 -71.068560,42.372170,0.000000 -71.066532,42.371398,0.000000 -71.064225,42.369076,0.000000 -71.063257,42.368246,0.000000 -71.060681,42.368327,0.000000 -71.059479,42.368753,0.000000 -71.059451,42.368753,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 24</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+         <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.057737,42.372754,0.000000 -71.057751,42.372747,0.000000 -71.061296,42.371188,0.000000 -71.060446,42.370202,0.000000 -71.059465,42.368753,0.000000 -71.054109,42.370454,0.000000 -71.055132,42.371521,0.000000 -71.057737,42.372754,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 25</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+         <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.055083,42.371470,0.000000 -71.051362,42.372152,0.000000 -71.047600,42.375562,0.000000 -71.047000,42.376935,0.000000 -71.047009,42.379553,0.000000 -71.051131,42.380207,0.000000 -71.052507,42.378881,0.000000 -71.054507,42.376892,0.000000 -71.055244,42.376228,0.000000 -71.056250,42.375320,0.000000 -71.057375,42.374545,0.000000 -71.058037,42.374395,0.000000 -71.057620,42.373367,0.000000 -71.057231,42.372994,0.000000 -71.057737,42.372754,0.000000 -71.055085,42.371473,0.000000 -71.055083,42.371470,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate 26</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+         <font color="#999999">1901 Charlestown</font>
+      </p>
+     
+      <p>
+        <a href="http://maps.bpl.org/content/userequest_bromley" target="_blank"><strong><font color="#CC3333">Request this file</font></strong></a>
+        <br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+</br>
+
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.047009,42.379553,0.000000 -71.045830,42.383606,0.000000 -71.048633,42.384887,0.000000 -71.058033,42.385870,0.000000 -71.061336,42.382164,0.000000 -71.058917,42.381469,0.000000 -71.056517,42.381080,0.000000 -71.047009,42.379549,0.000000 -71.047009,42.379553,0.000000
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+</Document>
+</kml>

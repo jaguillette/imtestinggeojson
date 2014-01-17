@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+
+    <!-- This is the title of the kml in GE's my places pane -->
+    <!-- CHANGE TO SHOW APPROPRIATE ATLAS -->
+    <name>1883 Boston Proper - Bromley</name>
+
+    <!-- CHANGE THE DATES to correct year: shows up on time slider -->
+    <TimeSpan id="ID">
+      <begin>1883-01</begin>
+      <end>1884-01</end>
+    </TimeSpan>
+
+    <!-- can change the name or leave it the same - depending on how picky/lazy you are -->
+      <Style id="bluepoly">
+
+	  <!-- Line width and color - polygon borders -->
+		  <LineStyle>
+			 <color>ff00aaff</color>
+       <width>2</width>
+		  </LineStyle>
+
+    <!-- Polygon color and transparency -->
+		  <PolyStyle>		
+    	 <color>7f00aaff</color>		
+		  </PolyStyle>
+
+	   </Style>
+
+
+
+
+
+
+
+
+
+
+
+<!-- this point begins the polygons for each plate -->
+    <Placemark>
+    <styleUrl>#bluepoly</styleUrl>
+
+  <!-- CHANGE NAME TO APPROPRIATE PLATE NAME -->
+    <name>Plate A</name>
+
+    <description>
+
+      <!-- below is the balloon's data -->
+    <![CDATA[
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+    <MultiGeometry>
+               <Polygon>
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+
+
+                        <!-- CHANGE COORDINATES -->
+
+                        
+                        <coordinates> -71.06107015703182,42.36695637235791,0 -71.0601240943947,42.36592934193298,0 -71.06060331329594,42.36568669182928,0 -71.05808974523906,42.36339095969108,0 -71.05814980025973,42.36382230000683,0 -71.0567294712111,42.36386595767292,0 -71.05599677076513,42.36362048776034,0 -71.05556892608435,42.36423948691633,0 -71.05535089178351,42.3651338372076,0 -71.05495347745551,42.36490582917548,0 -71.05436585805401,42.3653865250055,0 -71.05346057806247,42.36477933249465,0 -71.05304228844223,42.36527530233747,0 -71.05280089433843,42.36605154072639,0 -71.0512957138446,42.36617458663183,0 -71.0514009638357,42.36636514370655,0 -71.05010229295587,42.36643590179889,0 -71.04793651078055,42.36691648122567,0 -71.04890862915848,42.36859945425217,0 -71.05190066009791,42.37038717905617,0 -71.05568316058272,42.37002081295934,0 -71.06106994795329,42.36695618592903,0 -71.06107015703182,42.36695637235791,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+     </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate B</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.04793651078036,42.36691648122567,0 -71.05010229295587,42.36643590179879,0 -71.05140096383552,42.36636514370651,0 -71.0512957138446,42.36617458663179,0 -71.05280089433835,42.36605154072635,0 -71.05304228844231,42.36527530233757,0 -71.05346057806257,42.36477933249466,0 -71.05436585805401,42.36538652500546,0 -71.05495347745561,42.36490582917543,0 -71.05535089178342,42.3651338372076,0 -71.05556892608426,42.36423948691643,0 -71.05599677076505,42.36362048776039,0 -71.056729471211,42.363865957673,0 -71.05814980025973,42.36382230000686,0 -71.05809246336686,42.36341048255376,0 -71.05809005824112,42.3628171017714,0 -71.05764093295477,42.36227942037295,0 -71.0568962702872,42.36083785771932,0 -71.05680615019527,42.36012524030718,0 -71.05383634514521,42.36042103860795,0 -71.05378348689536,42.36070632681954,0 -71.05081661073399,42.36095953171856,0 -71.04696797642338,42.36152326788475,0 -71.04629371376868,42.36283405772809,0 -71.04793651078036,42.36691648122567,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+<Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate C</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.05680615019516,42.36012524030724,0 -71.05738633233781,42.35968977860073,0 -71.05737572896423,42.3554373871731,0 -71.05567748049285,42.35562804884415,0 -71.05543858977904,42.35539656629278,0 -71.0548315763828,42.35577816176377,0 -71.05475530485425,42.35566352925671,0 -71.05367215235312,42.35641182698057,0 -71.05297698893358,42.35587210136345,0 -71.05259535584231,42.35591240513072,0 -71.0524394842695,42.35615476525262,0 -71.05241970953752,42.35622614906545,0 -71.05031774308637,42.35644662358006,0 -71.04811870080644,42.35676672341801,0 -71.04703436086558,42.36151354527234,0 -71.05105007738764,42.36093960960298,0 -71.05369070438455,42.36071424643476,0 -71.0538233930746,42.36049094417346,0 -71.05676899580568,42.36012894144685,0 -71.05680615019516,42.36012524030724,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate D</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.06106492995981,42.36695904100007,0 -71.06119205351223,42.36703078293483,0 -71.06190399293867,42.36683884616198,0 -71.06606242680027,42.36749775464975,0 -71.06843549670316,42.36713508818627,0 -71.06911431901189,42.36650878047208,0 -71.06780985458164,42.36561777551415,0 -71.06792617034914,42.36551816774023,0 -71.06748457487419,42.36527354210272,0 -71.06771788950007,42.36497428485418,0 -71.06719852693536,42.36482941056497,0 -71.06752829765725,42.36451622447594,0 -71.06548932338113,42.36395114709996,0 -71.06511293460345,42.36271657987146,0 -71.06445712242301,42.36271812052534,0 -71.06439496366343,42.36125647905128,0 -71.0622871393585,42.36140211391437,0 -71.06174935806453,42.36180154163586,0 -71.06093720626927,42.36271309701655,0 -71.0597568072337,42.36184246584983,0 -71.05837455973729,42.36251498365277,0 -71.05755891794753,42.36290049407625,0 -71.06106492995981,42.36695904100007,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate E</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.06439496366343,42.36125647905128,0 -71.06451467944477,42.36271798546037,0 -71.06511293460345,42.36271657987146,0 -71.06548766714289,42.36394571469477,0 -71.06748568612663,42.36450441567286,0 -71.06724864625873,42.36484339129846,0 -71.06771788950007,42.36497428485424,0 -71.06749151452058,42.36526464112502,0 -71.06790144523097,42.36550447114217,0 -71.06786801251107,42.36556797164221,0 -71.06911431901189,42.36650878047208,0 -71.07050982674852,42.36535062222831,0 -71.07231624993321,42.35875271694462,0 -71.06637194975623,42.3588423195095,0 -71.0663585776615,42.35932486519356,0 -71.06594685790702,42.35932805926939,0 -71.06602566065783,42.3612397615805,0 -71.06439496366343,42.36125647905128,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate F</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.06637194975623,42.3588423195095,0 -71.06628847671252,42.35830621966711,0 -71.06580180229045,42.35699371441606,0 -71.06319977996222,42.35770972920787,0 -71.06169915631193,42.35826034674064,0 -71.06127032245793,42.35822602069364,0 -71.05938769955499,42.35768991244053,0 -71.05903050561422,42.35822531109202,0 -71.05789950338016,42.35791718421638,0 -71.05782233659345,42.35865167690094,0 -71.05738382317229,42.35868355148091,0 -71.05738628219295,42.35966966981099,0 -71.05680615019516,42.36012524030724,0 -71.05692143787181,42.36088657979845,0 -71.05733030331652,42.36167809351924,0 -71.05764959091201,42.36228978556333,0 -71.05798965884392,42.36269690711122,0 -71.0597568072337,42.36184246584983,0 -71.06093720626927,42.36271309701655,0 -71.0622871393585,42.36140211391437,0 -71.06439496366343,42.36125647905128,0 -71.06602566065783,42.3612397615805,0 -71.06594685790702,42.35932805926939,0 -71.0663585776615,42.35932486519356,0 -71.06637194975623,42.3588423195095,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate G</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.06319977996222,42.35770972920787,0 -71.06454337953866,42.35236776593114,0 -71.0647291189195,42.35166266574939,0 -71.06282198699061,42.35148489689301,0 -71.06279257262241,42.35158893891659,0 -71.06209034317212,42.35145543330717,0 -71.06117614044175,42.3514763871159,0 -71.05854265625766,42.35091948699858,0 -71.05819934720128,42.35178806670549,0 -71.05797953525692,42.3523228200571,0 -71.05789182445582,42.3530051773097,0 -71.05780860278982,42.3535498214471,0 -71.05800086870529,42.3536761629847,0 -71.05748024745438,42.35457513291904,0 -71.05751362604408,42.35509487534307,0 -71.05737572896423,42.3554373871731,0 -71.05733074985609,42.35756566780655,0 -71.05738382317229,42.35868355148091,0 -71.05782233659345,42.35865167690094,0 -71.05789950338016,42.35791718421638,0 -71.05903050561422,42.35822531109202,0 -71.05938769955499,42.35768991244053,0 -71.06127032245793,42.35822602069364,0 -71.06169915631193,42.35826034674064,0 -71.06319977996222,42.35770972920787,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate H</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.05854265625766,42.35091948699858,0 -71.05743751248387,42.3506489388565,0 -71.05661870650488,42.35043334354997,0 -71.05539055107286,42.35027212490863,0 -71.05267718595736,42.34978995993322,0 -71.05036620581421,42.35233924563978,0 -71.04812393626067,42.35676596138185,0 -71.05242959690901,42.35619045715963,0 -71.05251742020511,42.35603358521977,0 -71.05278617244865,42.35589225340548,0 -71.05297698893358,42.35587210136345,0 -71.05367215235312,42.35641182698057,0 -71.05479344058389,42.35572084551694,0 -71.05543858977904,42.35539656629278,0 -71.05567748049285,42.35562804884415,0 -71.05727677708485,42.35544849718049,0 -71.05751362604408,42.35509487534307,0 -71.05747662371763,42.3547109076822,0 -71.05758151496137,42.35438000640363,0 -71.05800086870529,42.3536761629847,0 -71.05780860278982,42.3535498214471,0 -71.05796482634757,42.35243725091394,0 -71.05854265625766,42.35091948699858,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate I</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.06471666629206,42.35170993867251,0 -71.06494016453488,42.35101929309377,0 -71.06554326140702,42.34861627853376,0 -71.06558569150735,42.34837250165695,0 -71.06498326591228,42.34786199610108,0 -71.06442320300211,42.34762204591485,0 -71.06432640068361,42.3479251299299,0 -71.06295644869122,42.34705337838105,0 -71.06303706088625,42.3468560831151,0 -71.06262328838578,42.34676060941887,0 -71.06209743906436,42.34676835815534,0 -71.06101628590301,42.34680998715576,0 -71.05906198706259,42.34599575114471,0 -71.05779362224379,42.34553353032994,0 -71.05511093456153,42.34619491440295,0 -71.05267718595736,42.34978995993322,0 -71.05661870650488,42.35043334354997,0 -71.05854265625766,42.35091948699858,0 -71.05988001318275,42.35120230522492,0 -71.06117614044175,42.3514763871159,0 -71.06209034317212,42.35145543330717,0 -71.06279257262241,42.35158893891659,0 -71.06282198699061,42.35148489689301,0 -71.06471666629206,42.35170993867251,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate J</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.06454337953866,42.35236776593114,0 -71.0674995980057,42.35249483136494,0 -71.070690336593,42.35190725491464,0 -71.07520551224695,42.35067060701262,0 -71.0730986283009,42.34639407810974,0 -71.06957135105421,42.34734067582175,0 -71.06869699560768,42.3473291631956,0 -71.0681959733481,42.34785605275832,0 -71.06789113527472,42.34768479120367,0 -71.06722935157382,42.34760033607053,0 -71.06702880920342,42.34788223548141,0 -71.06589608070881,42.34865883113858,0 -71.06558569150735,42.34837250165695,0 -71.0647291189195,42.35166266574939,0 -71.06454337953866,42.35236776593114,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate K</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.07020278221896,42.34486925287304,0 -71.06771828622216,42.34382786566157,0 -71.06669895577799,42.34310488402005,0 -71.06594751490287,42.34393937597498,0 -71.06188264246953,42.3428229522814,0 -71.06129890716164,42.34267480734521,0 -71.0599960812891,42.34465872273614,0 -71.05779294939849,42.34553369622137,0 -71.06094147046275,42.34677881716764,0 -71.06262328838578,42.34676060941887,0 -71.06303706088625,42.3468560831151,0 -71.06295644869122,42.34705337838105,0 -71.06432640068361,42.3479251299299,0 -71.06442320300211,42.34762204591485,0 -71.06501368494888,42.34788777397756,0 -71.06558569150735,42.34837250165695,0 -71.06589608070881,42.34865883113858,0 -71.06702880920342,42.34788223548141,0 -71.06722935157382,42.34760033607053,0 -71.06789113527472,42.34768479120367,0 -71.0681959733481,42.34785605275832,0 -71.06869699560768,42.3473291631956,0 -71.06957135105421,42.34734067582175,0 -71.07095321448934,42.34697197057049,0 -71.07020278221896,42.34486925287304,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate L</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.06723232573388,42.3373542933267,0 -71.06623562214537,42.33662163476833,0 -71.0615448087562,42.34080574788771,0 -71.06129890716164,42.34267480734513,0 -71.06594751490287,42.34393937597498,0 -71.06669895577799,42.34310488402005,0 -71.06832289024217,42.34185473006824,0 -71.06961245304588,42.34133373650117,0 -71.0707006013896,42.34078196621941,0 -71.07108553426431,42.34052572448634,0 -71.06721296453431,42.33736851264483,0 -71.06723232573388,42.3373542933267,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate M</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.07108553426431,42.34052572448634,0 -71.07497232001265,42.33793711663952,0 -71.07759374612851,42.33594844163294,0 -71.07867412233982,42.33503643027213,0 -71.07702036343898,42.33358774061541,0 -71.07612545289835,42.33279258664635,0 -71.07501824847459,42.33346094156308,0 -71.07448262363387,42.33290545000106,0 -71.073363276165,42.33360609977843,0 -71.0724510768229,42.3329115031474,0 -71.06621257721019,42.33664219222603,0 -71.07108553426431,42.34052572448634,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate N</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.08050188834694,42.34366345288391,0 -71.08054041913269,42.34366359345713,0 -71.08242933169915,42.34207941436124,0 -71.08451977846428,42.34010833008946,0 -71.08201497641265,42.33840445093856,0 -71.07927088142635,42.33653693862288,0 -71.07796492199623,42.33585187482501,0 -71.07429054479823,42.33839892516471,0 -71.07522557095679,42.33918646643159,0 -71.07760243149004,42.34121628009213,0 -71.07867825727637,42.34238665411574,0 -71.08050188834694,42.34366345288391,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+<Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate O</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.07059632678893,42.34624739300067,0 -71.07273792643284,42.3456794295405,0 -71.07235188966239,42.34487664676196,0 -71.07677679827772,42.34367943850322,0 -71.07655166143138,42.34324044525302,0 -71.07726732748199,42.34302549330879,0 -71.07806313571494,42.34286770253715,0 -71.07867825727637,42.34238665411574,0 -71.07727918424213,42.34094024096449,0 -71.07429054479823,42.33839892516471,0 -71.0707006013896,42.34078196621941,0 -71.06878645618308,42.34166744842311,0 -71.06669895577799,42.34310488402005,0 -71.06771828622216,42.34382786566157,0 -71.07020278221896,42.34486925287304,0 -71.07059632678893,42.34624739300067,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate P</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.07806313571494,42.34286770253715,0 -71.07655166143138,42.34324044525302,0 -71.07677679827772,42.34367943850322,0 -71.07235188966239,42.34487664676196,0 -71.07273792643284,42.3456794295405,0 -71.07059632678893,42.34624739300067,0 -71.07095321448934,42.34697197057049,0 -71.0730986283009,42.34639407810974,0 -71.07350167864129,42.34726150900437,0 -71.07520551224695,42.35067060701262,0 -71.07745762021791,42.35005801334265,0 -71.07949855620709,42.34950791748935,0 -71.08180020709703,42.34888839960865,0 -71.08046132274849,42.34655364909474,0 -71.08027983807907,42.34637106450477,0 -71.07957979236768,42.3458950101661,0 -71.08023884726678,42.34534457662016,0 -71.07947629420846,42.34483027754896,0 -71.07915466554134,42.34476596059393,0 -71.07963215283944,42.34451635719619,0 -71.07857879558202,42.34383157665972,0 -71.07900133629214,42.34349363245192,0 -71.07850749114533,42.34319972084061,0 -71.07806313571494,42.34286770253715,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate Q</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.07298474390349,42.35599560894248,0 -71.07289206005385,42.35592933784447,0 -71.07228895953129,42.35606626145853,0 -71.07204859101951,42.35555563359563,0 -71.07236247376123,42.35549501834048,0 -71.070690336593,42.35190725491464,0 -71.0674995980057,42.35249483136494,0 -71.06454337953866,42.35236776593114,0 -71.06319977996222,42.35770972920787,0 -71.06580180229045,42.35699371441606,0 -71.06628847671252,42.35830621966711,0 -71.06637194975623,42.3588423195095,0 -71.07231624993321,42.35875271694462,0 -71.07298474390349,42.35599560894248,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate R</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.08180020709703,42.34888839960865,0 -71.07745762021791,42.35005801334265,0 -71.070690336593,42.35190725491464,0 -71.07236247376123,42.35549501834048,0 -71.07204859101951,42.35555563359563,0 -71.07228895953129,42.35606626145853,0 -71.07289206005385,42.35592933784447,0 -71.07298474390349,42.35599560894248,0 -71.07333507680384,42.35578237546042,0 -71.07932037644751,42.35417968786501,0 -71.08379332149137,42.3529682468082,0 -71.08180020709703,42.34888839960865,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate S</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.08379332149137,42.3529682468082,0 -71.08973066417224,42.35134067958794,0 -71.08774143904584,42.34728128025272,0 -71.08180020709703,42.34888839960865,0 -71.08379332149137,42.3529682468082,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+
+
+
+
+     <Placemark>
+     <styleUrl>#bluepoly</styleUrl>
+     <name>Plate T</name>
+     <description>
+    <![CDATA[
+         
+
+<table width="300" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <p>
+        <font color="#666666"><strong>George W. Bromley, <em>Atlas of the City of Boston</em></strong></font>
+        <br />
+        <font color="#999999">1883 Boston Proper</font>
+      </p>
+      <p>
+        <a href="http://warp.worldmap.harvard.edu/maps/2165#Preview_Map_tab" target="_blank"><strong><font color="#CC3333">View Map</font></strong></a>
+      </p>
+      
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
+      <p><br /></p>
+      <font color="#999999">Norman B. Leventhal Map Center</font>
+      </br>
+         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    </td>
+  </tr>
+</table>
+          ]]>
+      </description>    
+      <MultiGeometry>
+
+               <Polygon>
+                  
+                  <tessellate>1</tessellate>
+                      <outerBoundaryIs>
+                      <LinearRing>
+                        <coordinates> -71.08774143904584,42.34728128025272,0 -71.0857679237165,42.3433576113155,0 -71.08300976392076,42.34153214046985,0 -71.08052115373977,42.34366352317213,0 -71.07867825727637,42.34238665411574,0 -71.07806313571494,42.34286770253715,0 -71.07900133629214,42.34349363245192,0 -71.07859253471953,42.34382058830429,0 -71.07961104648113,42.34450263633467,0 -71.07915466554134,42.34476596059393,0 -71.07947629420846,42.34483027754896,0 -71.08023884726678,42.34534457662016,0 -71.07957979236768,42.3458950101661,0 -71.0803946255336,42.34648654780607,0 -71.08180020709703,42.34888839960865,0 -71.08774143904584,42.34728128025272,0
+                        </coordinates>
+                      </LinearRing>
+                      </outerBoundaryIs>
+              </Polygon>
+
+      </MultiGeometry>
+     </Placemark>
+
+
+
+
+
+
+</Document>
+</kml>
