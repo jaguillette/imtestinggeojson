@@ -8,6 +8,7 @@
       	"description":"This is a description of the city of Vladimir",
       	"marker-size":"large",
       	"marker-symbol":"star",
+      	"marker-color":"#ace"
       },
       "geometry": {
         "type": "Point",
