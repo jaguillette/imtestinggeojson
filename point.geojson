@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
       	"title":"Vladimir",
-      	"description":"This is a description of the city of Vladimir",
+      	"description":"This is a description of the city of Vladimir https://ru.wikipedia.org/wiki/Владимир_(город)",
       	"marker-size":"large",
       	"marker-symbol":"star",
       	"marker-color":"#ace"
