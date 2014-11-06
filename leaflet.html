@@ -29,7 +29,7 @@
 		$.getJSON($('link[rel="points"]').attr("href"), function(data) {
 			var geojson = L.geoJson(data, {
 				onEachFeature: function (feature, layer) {
-					var popupContent = "<table><tr><td>Name (Russian)</td><td>"+feature.properties.ru_new_orth+"</td></tr><tr><td>Name (Old Russian)</td><td>"+feature.properties.ru_old_orth+"</td></tr><tr><td>Description (Old Russian)</td><td>"+feature.properties.description+"</td></tr><tr><td>Text Source</td><td><a href=\""+feature.properties.SOURCE+"\">Link</a></td></tr><tr><td>GeoNames Place</td><td><a href=\""+feature.properties.geonameId+"\">Link</a></td></tr></table>"
+					var popupContent = "<table class=\"popupTable\"><tr><td>Name (Russian)</td><td>"+feature.properties.ru_new_orth+"</td></tr><tr><td>Name (Old Russian)</td><td>"+feature.properties.ru_old_orth+"</td></tr><tr><td>Description (Old Russian)</td><td>"+feature.properties.description+"</td></tr><tr><td>Text Source</td><td><a href=\""+feature.properties.SOURCE+"\">Link</a></td></tr><tr><td>GeoNames Place</td><td><a href=\""+feature.properties.geonameId+"\">Link</a></td></tr></table>"
 					layer.bindPopup(popupContent);
 				}
 			});
