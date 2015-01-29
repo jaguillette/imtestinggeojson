@@ -8,7 +8,7 @@
 
 	<link rel="stylesheet" href="http://leafletjs.com/dist/leaflet.css" />
 	<link rel="stylesheet" type="text/css" href="stylesheets/leaflet_test_style.css">
-	<link rel="points" type="application/json" href="https://rawgit.com/jaguillette/imtestinggeojson/gh-pages/hgr_test_set.geojson">
+	<link rel="points" type="application/json" href="https://rawgit.com/jaguillette/imtestinggeojson/gh-pages/enhanced_dataset.geojson">
 
 	<script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
 </head>
@@ -52,7 +52,7 @@
 					</tr>\
 					<tr>\
 						<td>GeoNames Place</td>\
-						<td><a href=\""+feature.properties.geonameId+"\">"+feature.properties.geonameId+"</a></td>\
+						<td><a href=\""+feature.properties.geo.geonameId+"\">"+feature.properties.geo.geonameId+"</a></td>\
 					</tr></table>"
 					layer.bindPopup(popupContent);
 				},
